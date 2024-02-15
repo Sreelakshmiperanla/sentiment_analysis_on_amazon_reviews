@@ -13,5 +13,12 @@ To conduct sentiment analysis on a dataset you need to have some modules install
   pip install pandas sklearn nltk seaborn
 ```
 ### downloading data
-You can download the dataset required by clicking the below link
+You can download the dataset required by clicking the below link:-
+
 [dataset](https://drive.google.com/file/d/1XRa6vCsSTFy7z6Sr0t_plBDwjKtsWzNF/view?usp=drive_link)
+
+### Cloning this repository 
+Clone this repository using the command:
+```bash
+git clone https://github.com/Sreelakshmiperanla/sentimental_analysis_on_amazon_reviews.git
+```
