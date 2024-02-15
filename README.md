@@ -22,3 +22,4 @@ Clone this repository using the command:
 ```bash
 git clone https://github.com/Sreelakshmiperanla/sentimental_analysis_on_amazon_reviews.git
 ```
+Once you have downloaded the files, open the `command prompt` or `terminal` and navigate to the directory where the files are located.
