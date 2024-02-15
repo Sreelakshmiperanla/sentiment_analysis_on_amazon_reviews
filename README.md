@@ -7,5 +7,9 @@ Make sure you have Python-3 Installed in your computer , You can download the La
 
 
 ### Prerequisites
+To conduct sentiment analysis on a dataset you need to have some modules installed in your computer, To Install the required Python modules run the following command in your command prompt or terminal:
 
+```bash
+  pip install pandas sklearn nltk seaborn
+```
 ### downloading data
