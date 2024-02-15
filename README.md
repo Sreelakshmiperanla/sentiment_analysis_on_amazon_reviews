@@ -16,6 +16,16 @@ You can download the dataset required by clicking the below link:-
 
 [dataset](https://drive.google.com/file/d/1XRa6vCsSTFy7z6Sr0t_plBDwjKtsWzNF/view?usp=drive_link)
 
+## Downloading some modules in NLTK 
+You have to download some NLTK modules in order to execute the python script , they are `words` , `averaged perceptron tagger` , `vader-lexicon`  and `maxent_ne_chunker`
+To download them use the below syntax :-
+```bash
+nltk.download('words')
+nltk.download('averaged perceptron tagger')
+nltk.download('vader-lexicon')
+nltk.download('maxent_ne_chunker')
+```
+
 ## Cloning this repository 
 Clone this repository using the command:
 ```bash
