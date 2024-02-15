@@ -36,3 +36,12 @@ You can use a text editor like VS Code to write and run your Python code. You ne
 You can then use the `Run Python` File in Terminal command from the Command Palette or the right-click menu to `run` your Python file
 
 After the training is complete, the `accuracy score`, `confusion matrix`, and `classification report` will be printed on the console.
+
+## Built Using 
+
+-[Python](https://www.python.org/)
+-[Scikit-Learn (sklearn)](https://scikit-learn.org/stable/)
+-[Pandas](https://pandas.pydata.org/)
+-[Seaborn](https://seaborn.pydata.org/)
+-[nltk](https://www.nltk.org/)
+-[Transformers](https://pypi.org/project/transformers/)
