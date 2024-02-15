@@ -11,7 +11,7 @@ To conduct sentiment analysis on a dataset you need to have some modules install
 ```bash
   pip install pandas sklearn nltk seaborn
 ```
-## downloading data
+## Downloading data
 You can download the dataset required by clicking the below link:-
 
 [dataset](https://drive.google.com/file/d/1XRa6vCsSTFy7z6Sr0t_plBDwjKtsWzNF/view?usp=drive_link)
@@ -34,3 +34,5 @@ python sentiment_analysis.py
 ### using a text editor
 You can use a text editor like VS Code to write and run your Python code. You need to install the Python extension for VS Code and then select the Python interpreter from the status bar
 You can then use the `Run Python` File in Terminal command from the Command Palette or the right-click menu to `run` your Python file
+
+After the training is complete, the `accuracy score`, `confusion matrix`, and `classification report` will be printed on the console.
