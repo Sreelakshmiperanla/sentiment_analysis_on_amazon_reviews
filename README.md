@@ -3,7 +3,7 @@ This project aims to conduct sentiment analysis on Amazon reviews using the VADE
 
 ## Installation
 
-Make sure you have Python-3 Installed in your computer , You can download the Latest version of python from [official website] (https://www.python.org/)
+Make sure you have Python-3 Installed in your computer , You can download the Latest version of python from [official website](https://www.python.org/)
 
 
 ### Prerequisites
