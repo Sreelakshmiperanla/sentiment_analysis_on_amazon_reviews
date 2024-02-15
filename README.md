@@ -18,6 +18,9 @@ You can download the dataset required by clicking the below link:-
 
 ## Downloading some modules in NLTK 
 You have to download some NLTK modules in order to execute the python script , they are `words` , `averaged perceptron tagger` , `vader-lexicon`  and `maxent_ne_chunker`
+- words :- The nltk library has a dataset called `words`.The ‘words’ dataset contains a list of about 236,000 English words. here we use it to access a list of English words
+- averaged perceptron tagger :- It is a type of `part-of-speech` (POS) tagger that uses the averaged perceptron algorithm to predict the most likely POS tag for a given word.
+- maxent_ne_chunker :- It is a type of named entity chunker that uses the maximum entropy framework to identify and classify named entities in a text.
 To download them use the below syntax :-
 ```bash
 nltk.download('words')
@@ -25,6 +28,9 @@ nltk.download('averaged perceptron tagger')
 nltk.download('vader-lexicon')
 nltk.download('maxent_ne_chunker')
 ```
+
+Vader :- VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media
+VADER not only tells about the Positivity and Negativity score but also tells us about how positive or negative a sentiment is.
 
 ## Cloning this repository 
 Clone this repository using the command:
