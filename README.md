@@ -39,9 +39,9 @@ After the training is complete, the `accuracy score`, `confusion matrix`, and `c
 
 ## Built Using 
 
--[Python](https://www.python.org/)
--[Scikit-Learn (sklearn)](https://scikit-learn.org/stable/)
--[Pandas](https://pandas.pydata.org/)
--[Seaborn](https://seaborn.pydata.org/)
--[nltk](https://www.nltk.org/)
--[Transformers](https://pypi.org/project/transformers/)
+- [Python](https://www.python.org/)
+- [Scikit-Learn (sklearn)](https://scikit-learn.org/stable/)
+- [Pandas](https://pandas.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [nltk](https://www.nltk.org/)
+- [Transformers](https://pypi.org/project/transformers/)
